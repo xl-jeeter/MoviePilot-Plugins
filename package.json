@@ -1,0 +1,15 @@
+{
+  "AutoCkeckin": {
+    "name": "站点自动签到",
+    "description": "自动签到MoviePilot中配置的所有PT站点，支持NexusPHP等主流框架。",
+    "labels": "站点",
+    "version": "1.0",
+    "icon": "checkin.png",
+    "author": "xl-jeeter",
+    "level": 1,
+    "v2": true,
+    "history": {
+      "v1.0": "站点自动签到插件，支持NexusPHP等主流站点框架"
+    }
+  }
+}
